@@ -4,24 +4,24 @@
 
 # Quiz application made for people fascinated by Economics!
 
-* See the layout
-[quiz1](#quiz1)
+* See the Menu
+[Menu](#Qenu)
 * See the questions
-[quiz3](#quiz3)
+[Questions](#Questions)
 * See the End screen
-[quiz7](#quiz7)
+[End](#EndScreen)
 
 
-### Screenshots
+# Screenshots
+### Menu
+![Menu](https://github.com/FSzczepanski/Quiz_Ekonomiczny/blob/master/Menu.png?raw=true)
 
-![quiz1](https://user-images.githubusercontent.com/61236736/82939314-76c74080-9f93-11ea-93b0-169ce3165e83.png?raw=true)
+![Menu2](https://github.com/FSzczepanski/Quiz_Ekonomiczny/blob/master/Menu2.png?raw=true)
 
-![quiz2](https://user-images.githubusercontent.com/61236736/82939329-7f1f7b80-9f93-11ea-9186-f849f079edf2.png?raw=true)
+### Questions
+![Questions](https://github.com/FSzczepanski/Quiz_Ekonomiczny/blob/master/questions.png?raw=true)
+![Questions2](https://github.com/FSzczepanski/Quiz_Ekonomiczny/blob/master/questions2.png?raw=true)
+![Questions3](https://github.com/FSzczepanski/Quiz_Ekonomiczny/blob/master/questions3.png?raw=true)
 
-![quiz3](https://user-images.githubusercontent.com/61236736/82939345-86df2000-9f93-11ea-8a0a-beb59bb072b5.png?raw=true)
-
-![quiz4](https://user-images.githubusercontent.com/61236736/82939374-93637880-9f93-11ea-92e1-309e6c52e11d.png?raw=true)
-
-![quiz5](https://user-images.githubusercontent.com/61236736/82939380-965e6900-9f93-11ea-8261-00d712b8ef24.png?raw=true)
-
-![quiz7](https://user-images.githubusercontent.com/61236736/82939482-b3933780-9f93-11ea-95c1-ea8f37c11f93.png?raw=true)
+### End Screen
+![End](https://github.com/FSzczepanski/Quiz_Ekonomiczny/blob/master/end.png?raw=true)
