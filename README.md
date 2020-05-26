@@ -16,7 +16,7 @@
 ### Menu
 ![Menu](https://github.com/FSzczepanski/Quiz_Ekonomiczny/blob/master/Menu.png?raw=true)
 
-![Menu2](https://github.com/FSzczepanski/Quiz_Ekonomiczny/blob/master/Menu2.png?raw=true)
+![Menu2](https://github.com/FSzczepanski/Quiz_Ekonomiczny/blob/master/menu2.png?raw=true)
 
 ### Questions
 ![Questions](https://github.com/FSzczepanski/Quiz_Ekonomiczny/blob/master/questions.png?raw=true)
