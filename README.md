@@ -14,14 +14,14 @@
 
 ### Screenshots
 
-![quiz1](https://user-images.githubusercontent.com/61236736/82939314-76c74080-9f93-11ea-93b0-169ce3165e83.png)
+![quiz1](https://user-images.githubusercontent.com/61236736/82939314-76c74080-9f93-11ea-93b0-169ce3165e83.png?raw=true)
 
-![quiz2](https://user-images.githubusercontent.com/61236736/82939329-7f1f7b80-9f93-11ea-9186-f849f079edf2.png)
+![quiz2](https://user-images.githubusercontent.com/61236736/82939329-7f1f7b80-9f93-11ea-9186-f849f079edf2.png?raw=true)
 
-![quiz3](https://user-images.githubusercontent.com/61236736/82939345-86df2000-9f93-11ea-8a0a-beb59bb072b5.png)
+![quiz3](https://user-images.githubusercontent.com/61236736/82939345-86df2000-9f93-11ea-8a0a-beb59bb072b5.png?raw=true)
 
-![quiz4](https://user-images.githubusercontent.com/61236736/82939374-93637880-9f93-11ea-92e1-309e6c52e11d.png)
+![quiz4](https://user-images.githubusercontent.com/61236736/82939374-93637880-9f93-11ea-92e1-309e6c52e11d.png?raw=true)
 
-![quiz5](https://user-images.githubusercontent.com/61236736/82939380-965e6900-9f93-11ea-8261-00d712b8ef24.png)
+![quiz5](https://user-images.githubusercontent.com/61236736/82939380-965e6900-9f93-11ea-8261-00d712b8ef24.png?raw=true)
 
-![quiz7](https://user-images.githubusercontent.com/61236736/82939482-b3933780-9f93-11ea-95c1-ea8f37c11f93.png)
+![quiz7](https://user-images.githubusercontent.com/61236736/82939482-b3933780-9f93-11ea-95c1-ea8f37c11f93.png?raw=true)
