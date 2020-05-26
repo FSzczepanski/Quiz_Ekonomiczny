@@ -5,11 +5,11 @@
 # Quiz application made for people fascinated by Economics!
 
 * See the layout
-[menu part](#quiz1)
+[quiz1](#quiz1)
 * See the questions
-[questions](#quiz3)
+[quiz3](#quiz3)
 * See the End screen
-[end](#quiz7)
+[quiz7](#quiz7)
 
 
 ### Screenshots
