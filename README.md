@@ -23,5 +23,5 @@
 ![Questions2](https://github.com/FSzczepanski/Quiz_Ekonomiczny/blob/master/questions2.png?raw=true)
 ![Questions3](https://github.com/FSzczepanski/Quiz_Ekonomiczny/blob/master/questions3.png?raw=true)
 
-### End Screen
+### End
 ![End](https://github.com/FSzczepanski/Quiz_Ekonomiczny/blob/master/End.png?raw=true)
